@@ -1,0 +1,13 @@
+body {font-size:100px;color:#fff;line-height:100vh;text-align:center;}
+
+header {height:100vh;position:sticky;left:0;top:0;background:#000;}
+section {height:100vh;position:sticky;left:0;top:0;}
+section .container {display:flex;}
+section .container>* {flex:1;}
+section figure {height:100vh;}
+section .itm01 {background:url(../lib/base/main_visual01.jpg) no-repeat center center/cover;}
+section .itm04 {background:url(../lib/base/main_visual02.jpg) no-repeat center center/cover;}
+section .itm05 {background:url(../lib/base/main_visual03.jpg) no-repeat center center/cover;}
+
+
+footer {height:100vh;position:sticky;left:0;top:0;background:#000;}
